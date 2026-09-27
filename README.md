@@ -1,3 +1,7 @@
+> **This package has moved.** It is now the `AppKitViews` module of [swift-appkit-ui](https://github.com/Sidewatch/swift-appkit-ui), with its full
+> history. Depend on `.package(url: "https://github.com/Sidewatch/swift-appkit-ui.git", from: "0.1.0")` and the `AppKitViews` product;
+> `import AppKitViews` is unchanged. This repository is archived.
+
 # Swift AppKit Views
 
 Small AppKit view behaviours with no palette and no opinions: an outline that opens as far as it
